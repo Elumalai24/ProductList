@@ -27,5 +27,7 @@ The app should launch on your device/emulator.
 Product Details Screen
 To view the details of a product, tap on any product from the list on the HomeScreen. It will navigate to the ProductDetailsScreen displaying detailed information about the selected product.
 
+https://github.com/Elumalai24/ProductList/assets/93655628/59dcedf0-099f-408d-b713-1fc94a2a1301
+
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
