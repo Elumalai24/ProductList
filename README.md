@@ -4,13 +4,25 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
 
-A few resources to get you started if this is your first Flutter project:
+Prerequisites
+Flutter SDK installed on your machine. You can download it from the official Flutter website: Flutter Install
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Installing
+Clone the repository to your local machine using Git:
+git clone https://github.com/your-username/your-app-name.git
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Open the project in your preferred code editor (e.g., Android Studio, VSCode).
+
+Get the dependencies by running the following command in the project root directory:
+flutter pub get
+
+Running the App
+Connect your device (physical or emulator) to your development machine and run the app using the following command:
+flutter run
+
+The app should launch on your device/emulator.
+
+Product Details Screen
+To view the details of a product, tap on any product from the list on the HomeScreen. It will navigate to the ProductDetailsScreen displaying detailed information about the selected product.
