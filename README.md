@@ -26,3 +26,6 @@ The app should launch on your device/emulator.
 
 Product Details Screen
 To view the details of a product, tap on any product from the list on the HomeScreen. It will navigate to the ProductDetailsScreen displaying detailed information about the selected product.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
