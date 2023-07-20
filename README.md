@@ -6,28 +6,40 @@ A new Flutter project.
 
 These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
 
-Prerequisites
-Flutter SDK installed on your machine. You can download it from the official Flutter website: Flutter Install
 
-Installing
-Clone the repository to your local machine using Git:
-git clone https://github.com/your-username/your-app-name.git
 
-Open the project in your preferred code editor (e.g., Android Studio, VSCode).
+https://github.com/Elumalai24/ProductList/assets/93655628/e746e59f-0f41-4289-84e6-32e4f20670b3
 
-Get the dependencies by running the following command in the project root directory:
-flutter pub get
 
-Running the App
-Connect your device (physical or emulator) to your development machine and run the app using the following command:
+
+Build Instructions
+
+Install Flutter
+Built with Flutter, you need to have Flutter dev tools installed on your computer to compile the project. check Flutter Documentation to learn how to install Flutter and initialize a Flutter App.
+
+Run App
+If you have an AVD or real device attached, you can do
+
 flutter run
 
-The app should launch on your device/emulator.
+Build APK
+You may build the App with Flutter's Deployment Documentation.
 
-Product Details Screen
-To view the details of a product, tap on any product from the list on the HomeScreen. It will navigate to the ProductDetailsScreen displaying detailed information about the selected product.
+In order to build a fat APK, you can do
 
-https://github.com/Elumalai24/ProductList/assets/93655628/59dcedf0-099f-408d-b713-1fc94a2a1301
+flutter build apk
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+and find the output in build/app/outputs/flutter-apk/app-release.apk
+
+How to get this Repo and run it on your System
+
+I kept the code as original as possible with proper Commented Guides for anyone to understand and implement. Still you need to follow these steps.
+
+First get Flutter and all necessary SDK/Plugins installed. Full guide here Flutter: Get Started
+Now download this Repo
+Extract the Repo into your newly created Neumorphic-CV and replace the required files.
+Now you can Finally run VS-Code or Android Studio whichever you prefer and get the flutter packages and just run the App.
+
+Download the APK
+
+Download the release APK
