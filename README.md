@@ -6,11 +6,7 @@ A new Flutter project.
 
 These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
 
-
-
 https://github.com/Elumalai24/ProductList/assets/93655628/e746e59f-0f41-4289-84e6-32e4f20670b3
-
-
 
 Build Instructions
 
@@ -37,7 +33,7 @@ I kept the code as original as possible with proper Commented Guides for anyone 
 
 First get Flutter and all necessary SDK/Plugins installed. Full guide here Flutter: Get Started
 Now download this Repo
-Extract the Repo into your newly created Neumorphic-CV and replace the required files.
+Extract the Repo into your newly created ProductList and replace the required files.
 Now you can Finally run VS-Code or Android Studio whichever you prefer and get the flutter packages and just run the App.
 
 Download the APK
