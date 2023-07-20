@@ -16,6 +16,7 @@ git clone https://github.com/your-username/your-app-name.git
 Open the project in your preferred code editor (e.g., Android Studio, VSCode).
 
 Get the dependencies by running the following command in the project root directory:
+![Screenshot (22)](https://github.com/Elumalai24/ProductList/assets/93655628/9b15eae2-d38a-46cd-af66-b4b874a9abb2)
 flutter pub get
 
 Running the App
@@ -29,5 +30,3 @@ To view the details of a product, tap on any product from the list on the HomeSc
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/2/n/m/-original-imagna3rjqn8vqxb.jpeg?q=70
