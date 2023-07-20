@@ -1,22 +1,25 @@
 class ProductsModel {
-  final String id;
-  final String title;
-  final String image;
-  final String price;
-  final String details;
+  int? id;
+  String? title;
+  String? image;
+  String? price;
+  String? details;
+
   ProductsModel({
-    required this.id,
-    required this.title,
-    required this.image,
-    required this.price,
-    required this.details,
+    this.id,
+    this.title,
+    this.image,
+    this.price,
+    this.details,
   });
+
   factory ProductsModel.fromJson(Map<String, dynamic> json) {
     return ProductsModel(
-        id: json["id"] ?? "",
-        title: json["title"] ?? "",
-        image: json["image"] ?? "",
-        price: json["price"] ?? "",
-        details: json["details"] ?? "");
+      id: json["id"],
+      title: json["title"],
+      image: json["image"],
+      price: json["price"],
+      details: json["details"],
+    );
   }
 }
